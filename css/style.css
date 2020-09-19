@@ -1,0 +1,13 @@
+img{
+	width: 100px;
+	border-radius: 40%;
+}
+h1{
+	color:white;/*②*/
+	background:#0093D0; /*③*/
+	text-align:center; /*④*/
+  }
+h2{
+	border-left: solid 5px #0093D0; /*⑤*/
+	padding-left:10px; /*⑥*/
+}
