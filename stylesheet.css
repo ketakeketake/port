@@ -1,13 +1,12 @@
 img{
-	width: 150px;
-	border-radius: 40%;
+	width: 300px;
 }
 h1{
 	color:white;/*②*/
-	background:#0093D0; /*③*/
+	background:palegreen; /*③*/
 	text-align:center; /*④*/
   }
 h2{
-	border-left: solid 5px #0093D0; /*⑤*/
+	border-left: solid 5px palegreen; /*⑤*/
 	padding-left:10px; /*⑥*/
 }
